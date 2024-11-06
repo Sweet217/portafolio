@@ -1,7 +1,7 @@
 <template>
     <div class="photo">
         <transition appear>
-            <img src="../Assets/1688841381967.jpeg" alt="Handsome Man With A Beard ;)" class="photo-img">
+            <img src="../../../public/Assets/1688841381967.jpeg" alt="Handsome Man With A Beard ;)" class="photo-img">
         </transition>
     </div>
 </template>
@@ -20,16 +20,12 @@ export default {
 </script>
 
 <style scoped>
-.photo {
-    margin-top: 60px;
-    margin-left: 60px;
-}
 
 img {
-    border-radius: 50%;
-    height: 300px;
+    border-radius: 100%;
+    height: 200px;
     border-style: solid;
-    border-width: 6px;
+    border-width: 0px;
     border-color: #a931b6;
     opacity: 0.1;
     transition: opacity 1s ease-in-out;

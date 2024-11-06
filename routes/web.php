@@ -5,5 +5,5 @@ use Inertia\Inertia;
 
 
 Route::get('/', function () {
-    return inertia::render('welcome');
+    return inertia::render('Mainpage');
 });
