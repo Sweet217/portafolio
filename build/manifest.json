@@ -1,0 +1,75 @@
+{
+  "public/Assets/1688841381967.jpeg": {
+    "file": "assets/1688841381967-0g76boJB.jpeg",
+    "src": "public/Assets/1688841381967.jpeg"
+  },
+  "public/Assets/LevelBeta.png": {
+    "file": "assets/LevelBeta-CaFxvlx2.png",
+    "src": "public/Assets/LevelBeta.png"
+  },
+  "public/Assets/Solytec-PD-1-150x150.png": {
+    "file": "assets/Solytec-PD-1-150x150-BrtAUEok.png",
+    "src": "public/Assets/Solytec-PD-1-150x150.png"
+  },
+  "public/Assets/dermapro.png": {
+    "file": "assets/dermapro-DsvrckKL.png",
+    "src": "public/Assets/dermapro.png"
+  },
+  "public/Assets/pd_solytec_page.png": {
+    "file": "assets/pd_solytec_page-D6h8Ts4O.png",
+    "src": "public/Assets/pd_solytec_page.png"
+  },
+  "public/Assets/seal pixelart2-vmake.jpeg": {
+    "file": "assets/seal pixelart2-vmake-CadfDnR3.jpeg",
+    "src": "public/Assets/seal pixelart2-vmake.jpeg"
+  },
+  "public/Assets/solytec_page.png": {
+    "file": "assets/solytec_page-BEc0omON.png",
+    "src": "public/Assets/solytec_page.png"
+  },
+  "public/Assets/yo__1_-removebg-preview (1).png": {
+    "file": "assets/yo__1_-removebg-preview (1)-HXScVjXl.png",
+    "src": "public/Assets/yo__1_-removebg-preview (1).png"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-DB9GAU2H.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/Pages/Mainpage.vue": {
+    "file": "assets/Mainpage-MllIhcf6.js",
+    "name": "Mainpage",
+    "src": "resources/js/Pages/Mainpage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/Mainpage-DrzMdJ_1.css"
+    ],
+    "assets": [
+      "assets/1688841381967-0g76boJB.jpeg",
+      "assets/yo__1_-removebg-preview (1)-HXScVjXl.png",
+      "assets/solytec_page-BEc0omON.png",
+      "assets/pd_solytec_page-D6h8Ts4O.png",
+      "assets/Solytec-PD-1-150x150-BrtAUEok.png",
+      "assets/dermapro-DsvrckKL.png",
+      "assets/LevelBeta-CaFxvlx2.png"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-0Urlp7Ms.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/Mainpage.vue"
+    ],
+    "css": [
+      "assets/app-DB9GAU2H.css"
+    ],
+    "assets": [
+      "assets/seal pixelart2-vmake-CadfDnR3.jpeg"
+    ]
+  }
+}
